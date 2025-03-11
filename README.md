@@ -1,4 +1,4 @@
 # git-learning
 git is fun
-Ilove leaening
+I love learning
 tech is future
